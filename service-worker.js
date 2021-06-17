@@ -1,5 +1,5 @@
-importScripts("/precache-manifest.5740082f3a8baa1c989a9faf4e64eaf9.js", "/workbox-v3.6.3/workbox-sw.js");
-workbox.setConfig({modulePathPrefix: "/workbox-v3.6.3"});
+importScripts("/ant.github.io/precache-manifest.20243a8625f83c996b2db3eca271e374.js", "/ant.github.io/workbox-v3.6.3/workbox-sw.js");
+workbox.setConfig({modulePathPrefix: "/ant.github.io/workbox-v3.6.3"});
 /* globals workbox */
 /* eslint-disable no-restricted-globals */
 workbox.core.setCacheNameDetails({
