@@ -1,4 +1,4 @@
-importScripts("/ant.github.io/precache-manifest.b4d4475269090261853e2e695ee3ec63.js", "/ant.github.io/workbox-v3.6.3/workbox-sw.js");
+importScripts("/ant.github.io/precache-manifest.cc54d553c884917178398fc66cfb3bb6.js", "/ant.github.io/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/ant.github.io/workbox-v3.6.3"});
 /* globals workbox */
 /* eslint-disable no-restricted-globals */

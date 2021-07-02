@@ -140,12 +140,12 @@ self.__precacheManifest = [
     "url": "/ant.github.io/p__User__Login.ab2c4ff8.async.js"
   },
   {
-    "revision": "98cc4039e758addb8958",
+    "revision": "b5620604043470244be5",
     "url": "/ant.github.io/umi.c2bb3fc6.css"
   },
   {
-    "revision": "98cc4039e758addb8958",
-    "url": "/ant.github.io/umi.81b21ff5.js"
+    "revision": "b5620604043470244be5",
+    "url": "/ant.github.io/umi.1411fab9.js"
   },
   {
     "revision": "075a419485c417e371a5",
@@ -164,52 +164,52 @@ self.__precacheManifest = [
     "url": "/ant.github.io/static/logo.d4485d23.png"
   },
   {
-    "revision": "4a2b6cfa9c29b887ba1d8d47e3afc6a1",
+    "revision": "82b48034ed20d5b2cac58c241ea9dd9a",
     "url": "/ant.github.io/index.html"
-  },
-  {
-    "revision": "7ae8363380c2f7b1cc749be320f584ae",
-    "url": "/ant.github.io/ggeditor/flow/model.svg"
   },
   {
     "revision": "c3eb6822f00442e58f4fae8645276b29",
     "url": "/ant.github.io/ggeditor/flow/normal.svg"
   },
   {
-    "revision": "d4485d23f4ecdf9a1fdd9a3cbf26a987",
-    "url": "/ant.github.io/favicon.png"
-  },
-  {
     "revision": "386acc8261f61af932676e7a93e3ccbf",
     "url": "/ant.github.io/ggeditor/flow/decision.svg"
   },
   {
-    "revision": "8bab0e213ae4bfb2ef3dcdc99378610e",
-    "url": "/ant.github.io/ggeditor/koni/bank.svg"
+    "revision": "7ae8363380c2f7b1cc749be320f584ae",
+    "url": "/ant.github.io/ggeditor/flow/model.svg"
+  },
+  {
+    "revision": "d4485d23f4ecdf9a1fdd9a3cbf26a987",
+    "url": "/ant.github.io/favicon.png"
   },
   {
     "revision": "c34897c103689b920309d1eeeca9ebad",
     "url": "/ant.github.io/ggeditor/flow/start.svg"
   },
   {
-    "revision": "07dcd135056a94bf54b5525779ab4cef",
-    "url": "/ant.github.io/ggeditor/koni/icon.svg"
+    "revision": "e72ea94ad4025edf7a44cf0f88591ee3",
+    "url": "/ant.github.io/ggeditor/koni/person.svg"
+  },
+  {
+    "revision": "8bab0e213ae4bfb2ef3dcdc99378610e",
+    "url": "/ant.github.io/ggeditor/koni/bank.svg"
   },
   {
     "revision": "23f14d5686d7b771c5bffaa6cd1c3f05",
     "url": "/ant.github.io/ggeditor/koni/country.svg"
   },
   {
+    "revision": "07dcd135056a94bf54b5525779ab4cef",
+    "url": "/ant.github.io/ggeditor/koni/icon.svg"
+  },
+  {
     "revision": "b83c54e4f98926588b9cc373dfbbba0b",
     "url": "/ant.github.io/.DS_Store"
   },
   {
-    "revision": "e72ea94ad4025edf7a44cf0f88591ee3",
-    "url": "/ant.github.io/ggeditor/koni/person.svg"
-  },
-  {
     "revision": "d4485d23f4ecdf9a1fdd9a3cbf26a987",
-    "url": "/ant.github.io/icons/icon-128x128.png"
+    "url": "/ant.github.io/icons/icon-512x512.png"
   },
   {
     "revision": "d4485d23f4ecdf9a1fdd9a3cbf26a987",
@@ -217,11 +217,15 @@ self.__precacheManifest = [
   },
   {
     "revision": "d4485d23f4ecdf9a1fdd9a3cbf26a987",
-    "url": "/ant.github.io/icons/icon-512x512.png"
+    "url": "/ant.github.io/icons/icon-128x128.png"
   },
   {
     "revision": "f8a763354e56ae08db8d607b41e0290d",
     "url": "/ant.github.io/imgs/auth.png"
+  },
+  {
+    "revision": "a4607c1adf6489f4ab3dcf12f3a18910",
+    "url": "/ant.github.io/imgs/article.png"
   },
   {
     "revision": "c01316ece44cc7f241a17a48d154b506",
@@ -230,10 +234,6 @@ self.__precacheManifest = [
   {
     "revision": "2ff1c978cb5a20ffcffc2fc2114d5772",
     "url": "/ant.github.io/imgs/user.png"
-  },
-  {
-    "revision": "a4607c1adf6489f4ab3dcf12f3a18910",
-    "url": "/ant.github.io/imgs/article.png"
   },
   {
     "revision": "8543889913fe0aaaf11ee5e831eaa3b0",
